@@ -11,3 +11,11 @@
 
 ## Questions I Have
 [What don't you know yet?]
+
+Title: Student XX - I have [your structure]!
+
+Looking for others with:
+- [Pattern 1]
+- [Pattern 2]
+
+@student_YY - Your structure looks related!
